@@ -11,6 +11,8 @@ public class Main {
         for(int i = 0; i<=10; i++){
             System.out.println("It is the" + i + "of February!");
         }
+
+        int addx;
         System.out.println("Hello world!");
     }
 }
