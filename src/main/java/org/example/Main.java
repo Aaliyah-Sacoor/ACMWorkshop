@@ -6,7 +6,7 @@ public class Main {
         if(weather){
            System.out.println("It is hot today");
         }else{
-            System.out.println("It is cold today");
+            System.out.println("It is cold today, Wear a jacket");
         }
         for(int i = 0; i<=10; i++){
             System.out.println("It is the" + i + "of February!");
