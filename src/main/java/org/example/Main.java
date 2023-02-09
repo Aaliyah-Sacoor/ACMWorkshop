@@ -8,6 +8,9 @@ public class Main {
         }else{
             System.out.println("It is cold today");
         }
+        for(int i = 0; i<=10; i++){
+            System.out.println("It is the" + i + "of February!");
+        }
         System.out.println("Hello world!");
     }
 }
